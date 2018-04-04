@@ -1,0 +1,8 @@
+In this repository you will find 3 files regarding the third exercise given in CPP course.
+The first - main.cpp - was given to us - and as you can see it stayed unchanged.
+The second - member.cpp - is the class we wrote with the code needed for the functionality of our program.
+The third - memeber.h - is the header file with everything needed for our code to work.
+All three files were compiled and tested using the main.
+Please note the documentation throughout the code.
+
+Alexey&Shir
